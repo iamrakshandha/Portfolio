@@ -23,7 +23,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["QA Analyst/Software Tester/Web Automation Tester.","Business Analyst.","Information Technology Professional.", "An Aspiring Learner.", "Web Designer.","Volunteer.","MSc Computer Science graduate.", "Actively seeking full-time opportunities..."],
+		strings: ["Information Technology Professional.", "MSc Computer Science graduate.","An Aspiring Learner.","Actively seeking full-time opportunities..."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
